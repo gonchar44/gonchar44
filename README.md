@@ -1,4 +1,4 @@
-## Artem Honcharenko
+## Artem Honcharenko 👨🏻‍💻
 
 Over the course of my five-year tenure as a seasoned Front-End Engineer, I have honed my skills in crafting scalable and high-performance web applications. My expertise is marked by a keen focus on delivering adaptive mobile experiences that prioritize intuitive user interfaces.
 
